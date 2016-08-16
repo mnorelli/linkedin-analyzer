@@ -8,3 +8,5 @@ linkedin-results-scraper1.py
 to build json files from html files then
 analyze1.py
 to analyze the json files and output .xls files
+
+Uses Python version 3+
